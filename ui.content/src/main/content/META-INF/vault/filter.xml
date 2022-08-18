@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/nnp" mode="merge"/>
+    <filter root="/content/nnp" mode="merge"/>
+    <filter root="/content/dam/nnp/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/nnp" mode="merge"/>
+</workspaceFilter>
