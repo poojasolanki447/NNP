@@ -1,0 +1,7 @@
+com\nnp\core\models\HelloWorldModelTest.class
+com\nnp\core\filters\LoggingFilterTest.class
+com\nnp\core\servlets\SimpleServletTest.class
+com\nnp\core\testcontext\AppAemContext$1.class
+com\nnp\core\listeners\SimpleResourceListenerTest.class
+com\nnp\core\schedulers\SimpleScheduledTaskTest.class
+com\nnp\core\testcontext\AppAemContext.class

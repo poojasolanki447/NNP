@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: NNP - UI content
+Content-Package-Roots: /conf/nnp,/content/dam/nnp/asset.jpg,/content/e
+ xperience-fragments/nnp,/content/nnp
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Dependencies-Locations: com.nnp:nnp.ui.apps:1.0.0-SNAP
+ SHOT=maven:com.nnp:nnp.ui.apps:1.0.0-SNAPSHOT:zip
+Content-Package-Dependencies: com.nnp:nnp.ui.apps:1.0.0-SNAPSHOT
+Build-Jdk-Spec: 1.8
+Content-Package-Type: content
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Content-Package-Id: com.nnp:nnp.ui.content:1.0.0-SNAPSHOT
+Content-Package-Description: UI content package for NNP
+

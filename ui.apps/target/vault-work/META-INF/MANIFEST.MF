@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: NNP - UI apps
+Content-Package-Roots: /apps/nnp/clientlibs,/apps/nnp/components,/apps
+ /nnp/i18n
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Dependencies-Locations: adobe/cq60:core.wcm.components
+ .content:2.17.12=maven:com.adobe.cq:core.wcm.components.content:2.17.
+ 12:zip,adobe/cq60:core.wcm.components.config:2.17.12=maven:com.adobe.
+ cq:core.wcm.components.config:2.17.12:zip
+Content-Package-Dependencies: adobe/cq60:core.wcm.components.content:2
+ .17.12,adobe/cq60:core.wcm.components.config:2.17.12
+Build-Jdk-Spec: 1.8
+Content-Package-Type: application
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Content-Package-Id: com.nnp:nnp.ui.apps:1.0.0-SNAPSHOT
+Content-Package-Description: UI apps package for NNP
+

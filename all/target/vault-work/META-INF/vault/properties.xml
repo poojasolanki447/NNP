@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>NNP - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">nnp.all</entry>
+<entry key="created">2022-08-18T07:52:11.054Z</entry>
+<entry key="groupId">com.nnp</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.nnp</entry>
+<entry key="description">All content package for NNP</entry>
+<entry key="artifactId">nnp.all</entry>
+</properties>
