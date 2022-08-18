@@ -4,7 +4,7 @@
 <comment>NNP - UI config</comment>
 <entry key="allowIndexDefinitions">false</entry>
 <entry key="name">nnp.ui.config</entry>
-<entry key="created">2022-08-18T07:52:03.341Z</entry>
+<entry key="created">2022-08-18T08:11:17.850Z</entry>
 <entry key="groupId">com.nnp</entry>
 <entry key="version">1.0.0-SNAPSHOT</entry>
 <entry key="packageType">container</entry>

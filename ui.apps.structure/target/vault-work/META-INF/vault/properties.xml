@@ -4,7 +4,7 @@
 <comment>NNP - Repository Structure Package</comment>
 <entry key="allowIndexDefinitions">false</entry>
 <entry key="name">nnp.ui.apps.structure</entry>
-<entry key="created">2022-08-18T07:49:49.809Z</entry>
+<entry key="created">2022-08-18T08:10:37.440Z</entry>
 <entry key="groupId">com.nnp</entry>
 <entry key="version">1.0.0-SNAPSHOT</entry>
 <entry key="packageType">mixed</entry>
